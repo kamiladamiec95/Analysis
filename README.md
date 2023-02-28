@@ -9,7 +9,7 @@ To run app use: streamlit run main.py
 
 To view the reports, add the relevant data files to the project folder
 
-![image](https://user-images.githubusercontent.com/108901252/221836372-87f1f3e2-54c4-4eaa-817a-5bd68f68f9ae.png)
+![image](https://user-images.githubusercontent.com/108901252/221845517-cebab9fb-b715-4a24-9e1c-6d9611d243b4.png)
 
 ![image](https://user-images.githubusercontent.com/108901252/221836551-94815acd-c242-472a-9b3e-776c3aadd733.png)
 
@@ -17,4 +17,4 @@ To view the reports, add the relevant data files to the project folder
 
 ![image](https://user-images.githubusercontent.com/108901252/221836727-dd8bd1cb-b5e6-400e-8b80-7ac6c755231e.png)
 
-![image](https://user-images.githubusercontent.com/108901252/221836925-fb2ef108-d514-4545-b434-0a6ca3417b19.png)
+![image](https://user-images.githubusercontent.com/108901252/221845666-51e9046a-9945-4ad4-b377-99744da9fc5e.png)
