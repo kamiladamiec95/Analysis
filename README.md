@@ -7,6 +7,8 @@ To install modules on linux use: pip install -r requirements.txt
 
 To run app use: streamlit run main.py
 
+To view the reports, add the relevant data files to the project folder
+
 ![image](https://user-images.githubusercontent.com/108901252/221836372-87f1f3e2-54c4-4eaa-817a-5bd68f68f9ae.png)
 
 ![image](https://user-images.githubusercontent.com/108901252/221836551-94815acd-c242-472a-9b3e-776c3aadd733.png)
