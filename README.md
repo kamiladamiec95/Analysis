@@ -1,6 +1,5 @@
 # Analysis
 
-Reports for job interview 28.02.2023
 
 
 To install modules on linux use: pip install -r requirements.txt
